@@ -39,8 +39,5 @@
 
 <img src="https://raw.githubusercontent.com/AmorimGustav0/AmorimGustav0/output/snake.svg" alt="Snake animation" />
 
-###
-
-<p align="left">Hello World!!</p>
 
 ###
