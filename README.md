@@ -1,5 +1,5 @@
 <h1 align="left">Bem-vindo ao meu  GitHub! </h1>
-###
+
 
 <p align="left">Olá, sou Gustavo Amorim, residente em São Paulo - SP, e estou cursando Análise e Desenvolvimento de Sistemas no SENAI Ipiranga (2º semestre). Minha jornada na tecnologia inclui experiência com HTML, CSS, JavaScript, Python e MySQL, ferramentas que uso para criar soluções web robustas e funcionais. Tenho como objetivo me tornar um desenvolvedor full-stack, combinando habilidades de front-end e back-end para entregar projetos completos e eficientes.</p>
 
